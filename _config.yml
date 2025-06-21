@@ -65,13 +65,13 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Microsoft Learn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-microsoftlearn"
       url: "https://learn.microsoft.com/"
 
 footer:
