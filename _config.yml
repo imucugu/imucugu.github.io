@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Irene Mucugu"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I’m a tech-driven problem-solver with a growing focus on Cybersecurity, particularly in Security Operations Analysis. Passionate about simplifying complex systems, learning continuously and contributing meaningfully. I currently am expanding my skills across cybersecurity, cloud infrastructure, and digital risk  with a keen interest in both the technical and strategic side of tech"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
