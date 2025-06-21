@@ -5,42 +5,45 @@ layout: home
 author_profile: true
 ---
 ---
-layout: splash
-title: "Irene Mucugu"
-header:
-  overlay_color: "#2E1A47"  #d eep purple background #
-  overlay_filter: "0.4"
-  overlay_image: /assets/images/header-abstract.jpg
-  actions:
-    - label: "Explore My Work"
-      url: "/portfolio/"
-    - label: "Get in Touch"
-      url: "/contact/"
-excerpt: "A mind between machines and meaning. Cybersecurity. Systems. Storytelling."
+## layout: splash
+    Irene Mucugu
+*header 
+  -overlay_color: "#2E1A47"  '''deep purple background '''
+  -overlay_filter: "0.4"
+  -overlay_image: /assets/images/header-abstract.jpg
+  ### actions:
+    Explore My Work
+  url: "/portfolio/"
+   ### - label: "Get in Touch"
+      url: "/contact/" 
+---      
+A Craeative mind between machines and meaning. Cybersecurity. Systems. Storytelling.
 intro:
-  - excerpt: "I'm a systems thinker with a creative streak — trained in Mathematics and Computer Science, now exploring the edges of cybersecurity, human behavior, and digital learning."
+ I'm a thinker with a creative streak — trained in Mathematics and Computer Science, now exploring the edges of cybersecurity, human behavior, and digital learning.
+---
 
-feature_row:
-  - image_path: /assets/images/security-visual.jpg
-    alt: "Security Research"
-    title: "Security Research"
-    excerpt: "Exploring threat modeling, incident response, and operational defense."
-    url: "/cybersecurity/"
+% include feature_row %:
+#  - image_path: /assets/images/security-visual.jpg
+    Security Analysis
+    Exploring threat modeling, incident response, and operational defense. 
+
+  '''url: "/cybersecurity/" '''
     
-  - image_path: /assets/images/journal.jpg
+ # - image_path: /assets/images/journal.jpg
     alt: "Writing"
     title: "Writing + Ideas"
     excerpt: "Reflections on digital trust, systems thinking, and self-awareness."
-    url: "/writing/"
+    url: "TBR"
 ---
 
-{% include feature_row %}
+### 
+    {% include feature_row %}
 
 ---
 
 ## 🎓 Education
 
-```markdown
+```markdown'''
 My Learning Journey
 
 - **Bachelor of Science – Mathematics and Computer Science**  
