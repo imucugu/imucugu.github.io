@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+header: " #2E1A47 "
+textaccent: " #F6A623 "
 title: Irene Mucugu
 email: mucuguirene@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -63,27 +65,27 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+     # url: "https://"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      #icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+     # icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Microsoft Learn"
-      icon: "fab fa-fw fa-microsoftlearn"
+     # icon: "fab fa-fw fa-microsoftlearn"
       url: "https://learn.microsoft.com/"
 
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-twitter-square"
+     # icon: "fab fa-fw fa-twitter-square"
       url: "https://linkedin.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      #icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Microsoft Learn"
-      icon: "fab fa-fw fa-instagram"
+      #icon: "fab fa-fw fa-instagram"
       url: "https://learn.microsoft.com/"
 
 defaults:
