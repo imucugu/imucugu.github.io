@@ -27,7 +27,7 @@ header:
    
 Introduction:
 
-      I'm a tech explorer with a background in Mathematics and Computer Science, currently diving deep into cybersecurity. I believe in building thoughtful, secure systems and meaningful digital interactions.
+I'm a tech explorer with a background in Mathematics and Computer Science, currently diving deep into cybersecurity. I believe in building thoughtful, secure systems and meaningful digital interactions.
 
     feature_row:
       - image_path: /assets/images/security.jpg
@@ -53,7 +53,7 @@ Introduction:
 
 ## 🎓 Education
 
-    - **B.Sc. Mathematics and Computer Science**  
+- **B.Sc. Mathematics and Computer Science**  
       Solid grounding in logic, abstract thinking, and problem solving.
 
     - **Cybersecurity Analyst Training (Ongoing)**  
@@ -66,7 +66,7 @@ Introduction:
 
 ## 💬 Connect With Me
 
-    - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+ - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
     - 🧠 [Blog Posts](/writing/)
     - 📬 [Contact Me](/contact/)
 
