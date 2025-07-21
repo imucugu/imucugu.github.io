@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "CyberSecurity: Security Analyst"
+    url: /analyst/
+  - title: "CyberSecurity: Ethical Hacker"
+    url: /hacker/
+  - title: "KQL"
+    url: /kql/
   - title: "About"
     url: /about/
