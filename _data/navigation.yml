@@ -1,9 +1,10 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "CyberSecurity: Security Analyst"
     url: /analyst/
   - title: "CyberSecurity: Ethical Hacker"
     url: /hacker/
   - title: "KQL"
     url: /kql/
-  - title: "About"
-    url: /about/
+ 
